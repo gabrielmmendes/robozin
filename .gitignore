@@ -1,0 +1,7 @@
+credenciais.env
+chrome-profile*
+saida/
+faturas/
+*.pdf
+.venv/
+__pycache__/
